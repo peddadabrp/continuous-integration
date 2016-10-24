@@ -6,7 +6,7 @@ node ('linux'){
     }
     stage('Preparation') { // for display purposes
       // Get some code from a GitHub repository
-      checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/peddadabrp/continuous-integration.git']]])
+      checkout scm
       mvnHome = tool 'M3'
     }
     stage('Build') {
