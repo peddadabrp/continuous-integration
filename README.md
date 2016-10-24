@@ -1,2 +1,2 @@
 # continuous-integration
-test
+This is a master branch
