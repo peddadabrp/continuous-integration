@@ -1,1 +1,2 @@
-Testing the Git Hook
+
+This is a master branch
