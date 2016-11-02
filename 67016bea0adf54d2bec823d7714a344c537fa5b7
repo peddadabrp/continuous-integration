@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_8fecacbc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1009722
+      },
+      "writtenOn": "2016-11-02T22:49:13Z",
+      "side": 1,
+      "message": "approved",
+      "revId": "67016bea0adf54d2bec823d7714a344c537fa5b7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_afef70b0",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1009722
+      },
+      "writtenOn": "2016-11-02T22:49:13Z",
+      "side": 1,
+      "message": "approved",
+      "revId": "67016bea0adf54d2bec823d7714a344c537fa5b7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
